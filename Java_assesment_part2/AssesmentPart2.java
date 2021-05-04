@@ -1,10 +1,9 @@
-package com;
 import java. io.File;
 import java.io.FileFilter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.util.Scanner;
-public class Assesment2 {
+public class AssesmentPart2 {
 
 
     public static void findFile(String name,File file)
